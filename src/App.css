@@ -1,0 +1,22 @@
+.App {
+  width: 414px;
+  min-height: 100vh;
+  margin: auto;
+  background-color: #F8F8F8;
+}
+
+body {
+  background-color: black;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
